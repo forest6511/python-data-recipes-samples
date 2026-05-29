@@ -15,10 +15,11 @@ chapters/
   ch05/   第5章 健康・生活 — 睡眠を含む生活時間・平均寿命の相関・コンビニと人口・通勤と睡眠（Recipe 15-18）
   ch06/   第6章 犯罪・安全 — 刑法犯認知件数の推移・特殊詐欺の被害額（Recipe 19-20）
   ch07/   第7章 株価・金融 — ビットコインと日経の連動性・大統領選サイクル（Recipe 21-22）
+  ch08/   第8章 教育・キャリア — 大学進学率と生涯年収・プログラミング言語の人気推移（Recipe 23-24）
   ...     （以降の章は刊行に合わせて追加）
 ```
 
-第2章の Recipe 05・07、第3章の Recipe 09、第4章の Recipe 11-14（全レシピ）、第5章の Recipe 16-18、第6章の Recipe 19 は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は各章の README（[`chapters/ch02/README.md`](chapters/ch02/README.md) / [`chapters/ch03/README.md`](chapters/ch03/README.md) / [`chapters/ch04/README.md`](chapters/ch04/README.md) / [`chapters/ch05/README.md`](chapters/ch05/README.md) / [`chapters/ch06/README.md`](chapters/ch06/README.md)）を参照してください。第3章の Recipe 08（GitHub CSV）・Recipe 10（FRED / World Bank）、第5章の Recipe 15（OECD）、第6章の Recipe 20（警察庁 CSV）、第7章の Recipe 21・22（FRED 公開 CSV）はキー不要です。
+第2章の Recipe 05・07、第3章の Recipe 09、第4章の Recipe 11-14（全レシピ）、第5章の Recipe 16-18、第6章の Recipe 19、第8章の Recipe 23 は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は各章の README（[`chapters/ch02/README.md`](chapters/ch02/README.md) / [`chapters/ch03/README.md`](chapters/ch03/README.md) / [`chapters/ch04/README.md`](chapters/ch04/README.md) / [`chapters/ch05/README.md`](chapters/ch05/README.md) / [`chapters/ch06/README.md`](chapters/ch06/README.md) / [`chapters/ch08/README.md`](chapters/ch08/README.md)）を参照してください。第3章の Recipe 08（GitHub CSV）・Recipe 10（FRED / World Bank）、第5章の Recipe 15（OECD）、第6章の Recipe 20（警察庁 CSV）、第7章の Recipe 21・22（FRED 公開 CSV）、第8章の Recipe 24（Stack Exchange API）はキー不要です。
 
 各章ディレクトリには次が含まれます。
 
