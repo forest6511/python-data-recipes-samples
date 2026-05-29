@@ -9,8 +9,11 @@
 ```
 chapters/
   ch01/   第1章 気象 — 桜・台風・猛暑・豪雨（Recipe 01-04）
+  ch02/   第2章 年収・賃金 — 平均年収・労働時間・IT年収（Recipe 05-07）
   ...     （以降の章は刊行に合わせて追加）
 ```
+
+第2章の Recipe 05・07 は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は [`chapters/ch02/README.md`](chapters/ch02/README.md) を参照してください。Recipe 06（OECD）はキー不要です。
 
 各章ディレクトリには次が含まれます。
 
