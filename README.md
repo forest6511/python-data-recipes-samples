@@ -10,10 +10,11 @@
 chapters/
   ch01/   第1章 気象 — 桜・台風・猛暑・豪雨（Recipe 01-04）
   ch02/   第2章 年収・賃金 — 平均年収・労働時間・IT年収（Recipe 05-07）
+  ch03/   第3章 物価・購買力 — ビッグマック指数・都道府県物価差・円安と輸出（Recipe 08-10）
   ...     （以降の章は刊行に合わせて追加）
 ```
 
-第2章の Recipe 05・07 は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は [`chapters/ch02/README.md`](chapters/ch02/README.md) を参照してください。Recipe 06（OECD）はキー不要です。
+第2章の Recipe 05・07 と第3章の Recipe 09 は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は各章の README（[`chapters/ch02/README.md`](chapters/ch02/README.md) / [`chapters/ch03/README.md`](chapters/ch03/README.md)）を参照してください。第3章の Recipe 08（GitHub CSV）・Recipe 10（FRED / World Bank）はキー不要です。
 
 各章ディレクトリには次が含まれます。
 
