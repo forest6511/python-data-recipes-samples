@@ -12,10 +12,11 @@ chapters/
   ch02/   第2章 年収・賃金 — 平均年収・労働時間・IT年収（Recipe 05-07）
   ch03/   第3章 物価・購買力 — ビッグマック指数・都道府県物価差・円安と輸出（Recipe 08-10）
   ch04/   第4章 人口・少子化 — 人口ピラミッド・婚姻と出生・出生率の相関・消滅可能性都市（Recipe 11-14）
+  ch05/   第5章 健康・生活 — 睡眠を含む生活時間・平均寿命の相関・コンビニと人口・通勤と睡眠（Recipe 15-18）
   ...     （以降の章は刊行に合わせて追加）
 ```
 
-第2章の Recipe 05・07、第3章の Recipe 09、第4章の Recipe 11-14（全レシピ）は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は各章の README（[`chapters/ch02/README.md`](chapters/ch02/README.md) / [`chapters/ch03/README.md`](chapters/ch03/README.md) / [`chapters/ch04/README.md`](chapters/ch04/README.md)）を参照してください。第3章の Recipe 08（GitHub CSV）・Recipe 10（FRED / World Bank）はキー不要です。
+第2章の Recipe 05・07、第3章の Recipe 09、第4章の Recipe 11-14（全レシピ）、第5章の Recipe 16-18 は e-Stat の API を使うため、無料のアプリケーション ID（`appId`）が必要です。発行手順は各章の README（[`chapters/ch02/README.md`](chapters/ch02/README.md) / [`chapters/ch03/README.md`](chapters/ch03/README.md) / [`chapters/ch04/README.md`](chapters/ch04/README.md) / [`chapters/ch05/README.md`](chapters/ch05/README.md)）を参照してください。第3章の Recipe 08（GitHub CSV）・Recipe 10（FRED / World Bank）、第5章の Recipe 15（OECD）はキー不要です。
 
 各章ディレクトリには次が含まれます。
 

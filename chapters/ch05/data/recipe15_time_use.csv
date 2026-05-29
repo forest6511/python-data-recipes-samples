@@ -1,0 +1,526 @@
+REF_AREA,Reference area,MEASURE,Measure,SEX,OBS_VALUE,Unit of measure
+AUS,Australia,LEI,Leisure,F,269.0,Minutes per day
+AUS,Australia,PCA,Personal care,F,666.0,Minutes per day
+AUS,Australia,UPW,Unpaid work,F,311.0,Minutes per day
+AUS,Australia,PAW,Paid work or study,F,172.0,Minutes per day
+AUS,Australia,OTH,Other,M,18.0627177700348,Minutes per day
+AUS,Australia,LEI,Leisure,M,297.031358885017,Minutes per day
+AUS,Australia,PCA,Personal care,M,649.254355400697,Minutes per day
+AUS,Australia,UPW,Unpaid work,M,171.595818815331,Minutes per day
+AUS,Australia,PAW,Paid work or study,M,304.05574912892,Minutes per day
+AUS,Australia,OTH,Other,_T,20.0138985406532,Minutes per day
+AUS,Australia,LEI,Leisure,_T,281.195274496178,Minutes per day
+AUS,Australia,PCA,Personal care,_T,657.456567060459,Minutes per day
+AUS,Australia,UPW,Unpaid work,_T,243.168867268937,Minutes per day
+AUS,Australia,PAW,Paid work or study,_T,238.165392633774,Minutes per day
+AUT,Austria,OTH,Other,M,10.29041,Minutes per day
+AUT,Austria,OTH,Other,F,13.43353,Minutes per day
+AUT,Austria,LEI,Leisure,_T,306.87112,Minutes per day
+AUT,Austria,LEI,Leisure,M,321.9786,Minutes per day
+AUT,Austria,LEI,Leisure,F,291.65012,Minutes per day
+AUT,Austria,PCA,Personal care,_T,667.66179,Minutes per day
+AUT,Austria,PCA,Personal care,M,657.36157,Minutes per day
+AUT,Austria,PCA,Personal care,F,678.03942,Minutes per day
+AUT,Austria,UPW,Unpaid work,_T,187.97064,Minutes per day
+AUT,Austria,UPW,Unpaid work,M,138.51473,Minutes per day
+AUT,Austria,UPW,Unpaid work,F,237.79821,Minutes per day
+AUT,Austria,PAW,Paid work or study,_T,265.64036,Minutes per day
+AUT,Austria,PAW,Paid work or study,M,311.85469,Minutes per day
+AUT,Austria,PAW,Paid work or study,F,219.07872,Minutes per day
+BEL,Belgium,LEI,Leisure,F,316.706652420455,Minutes per day
+BEL,Belgium,PCA,Personal care,F,677.39721737857,Minutes per day
+BEL,Belgium,UPW,Unpaid work,F,237.322972016499,Minutes per day
+BEL,Belgium,PAW,Paid work or study,F,199.232497362733,Minutes per day
+BEL,Belgium,OTH,Other,_T,9.22128002575055,Minutes per day
+BEL,Belgium,LEI,Leisure,_T,339.350143735728,Minutes per day
+BEL,Belgium,PCA,Personal care,_T,664.046350849856,Minutes per day
+BEL,Belgium,UPW,Unpaid work,_T,191.820156132893,Minutes per day
+BEL,Belgium,PAW,Paid work or study,_T,235.75362369589,Minutes per day
+BEL,Belgium,OTH,Other,M,8.49297181254282,Minutes per day
+BEL,Belgium,LEI,Leisure,M,365.173129943823,Minutes per day
+BEL,Belgium,PCA,Personal care,M,648.457437883643,Minutes per day
+BEL,Belgium,UPW,Unpaid work,M,144.172378478972,Minutes per day
+BEL,Belgium,PAW,Paid work or study,M,273.704081881019,Minutes per day
+CAN,Canada,OTH,Other,M,31.7075201869011,Minutes per day
+CAN,Canada,LEI,Leisure,M,225.542171895504,Minutes per day
+CAN,Canada,PCA,Personal care,M,647.910270988941,Minutes per day
+CAN,Canada,UPW,Unpaid work,M,163.9218968153,Minutes per day
+CAN,Canada,PAW,Paid work or study,M,370.918160676956,Minutes per day
+CAN,Canada,OTH,Other,F,29.3266840696335,Minutes per day
+CAN,Canada,LEI,Leisure,F,196.907735896111,Minutes per day
+CAN,Canada,PCA,Personal care,F,663.740665984154,Minutes per day
+CAN,Canada,UPW,Unpaid work,F,247.182051444054,Minutes per day
+CAN,Canada,PAW,Paid work or study,F,302.842900800705,Minutes per day
+CAN,Canada,LEI,Leisure,_T,211.271826052666,Minutes per day
+CAN,Canada,PCA,Personal care,_T,655.960117149353,Minutes per day
+CAN,Canada,UPW,Unpaid work,_T,205.286788487434,Minutes per day
+CAN,Canada,PAW,Paid work or study,_T,336.957614922523,Minutes per day
+DNK,Denmark,OTH,Other,M,11.2140576221717,Minutes per day
+DNK,Denmark,LEI,Leisure,M,339.542605681607,Minutes per day
+DNK,Denmark,PCA,Personal care,M,643.039503916384,Minutes per day
+DNK,Denmark,UPW,Unpaid work,M,186.136081859719,Minutes per day
+DNK,Denmark,PAW,Paid work or study,M,260.067750920119,Minutes per day
+DNK,Denmark,OTH,Other,F,9.61420494377903,Minutes per day
+DNK,Denmark,LEI,Leisure,F,319.612544451975,Minutes per day
+DNK,Denmark,PCA,Personal care,F,673.378544051551,Minutes per day
+DNK,Denmark,UPW,Unpaid work,F,242.808720907722,Minutes per day
+DNK,Denmark,PAW,Paid work or study,F,194.585985644973,Minutes per day
+DNK,Denmark,OTH,Other,_T,10.3519569387025,Minutes per day
+DNK,Denmark,LEI,Leisure,_T,328.844813086877,Minutes per day
+DNK,Denmark,PCA,Personal care,_T,659.359294963398,Minutes per day
+DNK,Denmark,PAW,Paid work or study,_T,224.816593619938,Minutes per day
+EST,Estonia,OTH,Other,M,17.5000376944963,Minutes per day
+EST,Estonia,LEI,Leisure,M,324.78124626106,Minutes per day
+EST,Estonia,PCA,Personal care,M,650.692295842542,Minutes per day
+EST,Estonia,UPW,Unpaid work,M,139.187715531909,Minutes per day
+EST,Estonia,PAW,Paid work or study,M,307.838805529711,Minutes per day
+EST,Estonia,OTH,Other,F,19.0606822878249,Minutes per day
+EST,Estonia,LEI,Leisure,F,277.308677528336,Minutes per day
+EST,Estonia,PCA,Personal care,F,656.283679845747,Minutes per day
+EST,Estonia,UPW,Unpaid work,F,209.36915508837,Minutes per day
+EST,Estonia,PAW,Paid work or study,F,277.977763660019,Minutes per day
+EST,Estonia,OTH,Other,_T,18.3018223129704,Minutes per day
+EST,Estonia,LEI,Leisure,_T,301.154043831466,Minutes per day
+EST,Estonia,PCA,Personal care,_T,653.821360150578,Minutes per day
+EST,Estonia,UPW,Unpaid work,_T,173.660976027159,Minutes per day
+FIN,Finland,LEI,Leisure,M,350.287681461297,Minutes per day
+FIN,Finland,PCA,Personal care,M,628.108680047168,Minutes per day
+FIN,Finland,UPW,Unpaid work,M,161.987690264496,Minutes per day
+FIN,Finland,PAW,Paid work or study,M,257.162925567918,Minutes per day
+FIN,Finland,OTH,Other,F,37.2027739363302,Minutes per day
+FIN,Finland,LEI,Leisure,F,308.540555071002,Minutes per day
+FIN,Finland,PCA,Personal care,F,663.376294260677,Minutes per day
+FIN,Finland,UPW,Unpaid work,F,208.748649916855,Minutes per day
+FIN,Finland,PAW,Paid work or study,F,222.131707192206,Minutes per day
+FIN,Finland,OTH,Other,_T,39.8454146003223,Minutes per day
+FIN,Finland,LEI,Leisure,_T,329.806604610792,Minutes per day
+FIN,Finland,PCA,Personal care,_T,644.694376416737,Minutes per day
+FIN,Finland,UPW,Unpaid work,_T,185.546038763971,Minutes per day
+FIN,Finland,PAW,Paid work or study,_T,240.107553814392,Minutes per day
+FRA,France,LEI,Leisure,M,319.130806843015,Minutes per day
+FRA,France,PCA,Personal care,M,742.955399211535,Minutes per day
+FRA,France,UPW,Unpaid work,M,134.939453321805,Minutes per day
+FRA,France,PAW,Paid work or study,M,235.132065209748,Minutes per day
+FRA,France,OTH,Other,F,9.97471687486579,Minutes per day
+FRA,France,LEI,Leisure,F,269.743379658742,Minutes per day
+FRA,France,PCA,Personal care,F,760.888066736224,Minutes per day
+FRA,France,UPW,Unpaid work,F,224.030847649372,Minutes per day
+FRA,France,PAW,Paid work or study,F,175.362989080796,Minutes per day
+FRA,France,OTH,Other,_T,8.94711452440032,Minutes per day
+FRA,France,LEI,Leisure,_T,293.542647204861,Minutes per day
+FRA,France,PCA,Personal care,_T,752.246544090006,Minutes per day
+FRA,France,UPW,Unpaid work,_T,181.098549714387,Minutes per day
+FRA,France,PAW,Paid work or study,_T,204.165144466346,Minutes per day
+DEU,Germany,LEI,Leisure,M,358.043239341812,Minutes per day
+DEU,Germany,PCA,Personal care,M,649.180886150432,Minutes per day
+DEU,Germany,UPW,Unpaid work,M,151.641156779146,Minutes per day
+DEU,Germany,PAW,Paid work or study,M,276.811841355819,Minutes per day
+DEU,Germany,OTH,Other,F,5.79113597393979,Minutes per day
+DEU,Germany,LEI,Leisure,F,324.460858939834,Minutes per day
+DEU,Germany,PCA,Personal care,F,667.244830408694,Minutes per day
+DEU,Germany,UPW,Unpaid work,F,232.621356855328,Minutes per day
+DEU,Germany,PAW,Paid work or study,F,209.881920764596,Minutes per day
+DEU,Germany,OTH,Other,_T,5.11310158690526,Minutes per day
+DEU,Germany,LEI,Leisure,_T,340.882835020573,Minutes per day
+DEU,Germany,PCA,Personal care,_T,657.602393315668,Minutes per day
+DEU,Germany,UPW,Unpaid work,_T,192.354335749111,Minutes per day
+DEU,Germany,PAW,Paid work or study,_T,244.047244752997,Minutes per day
+GRC,Greece,OTH,Other,M,3.0,Minutes per day
+GRC,Greece,OTH,Other,F,7.0,Minutes per day
+GRC,Greece,LEI,Leisure,_T,335.0,Minutes per day
+GRC,Greece,LEI,Leisure,M,375.0,Minutes per day
+GRC,Greece,LEI,Leisure,F,310.0,Minutes per day
+GRC,Greece,PCA,Personal care,_T,685.0,Minutes per day
+GRC,Greece,PCA,Personal care,M,689.0,Minutes per day
+GRC,Greece,PCA,Personal care,F,680.0,Minutes per day
+GRC,Greece,UPW,Unpaid work,_T,184.0,Minutes per day
+GRC,Greece,UPW,Unpaid work,M,97.0,Minutes per day
+GRC,Greece,UPW,Unpaid work,F,260.0,Minutes per day
+GRC,Greece,PAW,Paid work or study,_T,230.0,Minutes per day
+GRC,Greece,PAW,Paid work or study,M,276.0,Minutes per day
+GRC,Greece,PAW,Paid work or study,F,183.0,Minutes per day
+HUN,Hungary,OTH,Other,M,10.5516108896624,Minutes per day
+HUN,Hungary,LEI,Leisure,M,308.157116482696,Minutes per day
+HUN,Hungary,PCA,Personal care,M,686.293115347827,Minutes per day
+HUN,Hungary,UPW,Unpaid work,M,162.341045980129,Minutes per day
+HUN,Hungary,PAW,Paid work or study,M,272.657111299686,Minutes per day
+HUN,Hungary,OTH,Other,F,7.6134485606417,Minutes per day
+HUN,Hungary,LEI,Leisure,F,256.841156877389,Minutes per day
+HUN,Hungary,PCA,Personal care,F,679.271815164226,Minutes per day
+HUN,Hungary,UPW,Unpaid work,F,293.767324683589,Minutes per day
+HUN,Hungary,PAW,Paid work or study,F,202.506254714154,Minutes per day
+HUN,Hungary,OTH,Other,_T,8.73818704873854,Minutes per day
+HUN,Hungary,LEI,Leisure,_T,281.349701323258,Minutes per day
+HUN,Hungary,PCA,Personal care,_T,683.139152210002,Minutes per day
+HUN,Hungary,UPW,Unpaid work,_T,229.15895598638,Minutes per day
+IRL,Ireland,LEI,Leisure,_T,312.31158,Minutes per day
+IRL,Ireland,LEI,Leisure,F,286.98392,Minutes per day
+IRL,Ireland,PCA,Personal care,F,623.13239,Minutes per day
+IRL,Ireland,PAW,Paid work or study,_T,267.96129,Minutes per day
+IRL,Ireland,OTH,Other,M,39.90444,Minutes per day
+IRL,Ireland,LEI,Leisure,M,337.57702,Minutes per day
+IRL,Ireland,PCA,Personal care,M,594.72988,Minutes per day
+IRL,Ireland,UPW,Unpaid work,M,126.978151,Minutes per day
+IRL,Ireland,PAW,Paid work or study,M,340.81053,Minutes per day
+IRL,Ireland,OTH,Other,F,42.442702,Minutes per day
+IRL,Ireland,UPW,Unpaid work,F,292.508303,Minutes per day
+IRL,Ireland,PAW,Paid work or study,F,194.9327,Minutes per day
+IRL,Ireland,PCA,Personal care,_T,608.91367,Minutes per day
+IRL,Ireland,UPW,Unpaid work,_T,209.641482,Minutes per day
+ITA,Italy,OTH,Other,M,12.0628180887634,Minutes per day
+ITA,Italy,LEI,Leisure,M,366.095753217538,Minutes per day
+ITA,Italy,PCA,Personal care,M,710.318418441344,Minutes per day
+ITA,Italy,UPW,Unpaid work,M,130.70904349082,Minutes per day
+ITA,Italy,PAW,Paid work or study,M,220.813966761535,Minutes per day
+ITA,Italy,OTH,Other,F,14.2947771947521,Minutes per day
+ITA,Italy,LEI,Leisure,F,280.922253677419,Minutes per day
+ITA,Italy,PCA,Personal care,F,705.327315056609,Minutes per day
+ITA,Italy,UPW,Unpaid work,F,306.335941182031,Minutes per day
+ITA,Italy,PAW,Paid work or study,F,133.119712889189,Minutes per day
+ITA,Italy,OTH,Other,_T,13.1853614591596,Minutes per day
+ITA,Italy,LEI,Leisure,_T,323.258616938897,Minutes per day
+ITA,Italy,PCA,Personal care,_T,707.808218002521,Minutes per day
+ITA,Italy,PAW,Paid work or study,_T,176.70905816186,Minutes per day
+JPN,Japan,OTH,Other,M,34.0,Minutes per day
+JPN,Japan,OTH,Other,F,40.0,Minutes per day
+JPN,Japan,LEI,Leisure,_T,269.0,Minutes per day
+JPN,Japan,LEI,Leisure,M,284.0,Minutes per day
+JPN,Japan,LEI,Leisure,F,254.0,Minutes per day
+JPN,Japan,PCA,Personal care,_T,640.0,Minutes per day
+JPN,Japan,PCA,Personal care,M,632.0,Minutes per day
+JPN,Japan,PCA,Personal care,F,647.0,Minutes per day
+JPN,Japan,UPW,Unpaid work,_T,125.0,Minutes per day
+JPN,Japan,UPW,Unpaid work,M,47.0,Minutes per day
+JPN,Japan,UPW,Unpaid work,F,208.0,Minutes per day
+JPN,Japan,PAW,Paid work or study,_T,368.0,Minutes per day
+JPN,Japan,PAW,Paid work or study,M,442.0,Minutes per day
+JPN,Japan,PAW,Paid work or study,F,292.0,Minutes per day
+KOR,Korea,PCA,Personal care,_T,677.847421075598,Minutes per day
+KOR,Korea,OTH,Other,M,23.7392112877499,Minutes per day
+KOR,Korea,LEI,Leisure,M,272.447789400641,Minutes per day
+KOR,Korea,PCA,Personal care,M,675.832424585911,Minutes per day
+KOR,Korea,UPW,Unpaid work,M,48.9944848608272,Minutes per day
+KOR,Korea,PAW,Paid work or study,M,418.986089864867,Minutes per day
+KOR,Korea,OTH,Other,F,31.7564683388117,Minutes per day
+KOR,Korea,LEI,Leisure,F,243.971318543532,Minutes per day
+KOR,Korea,PCA,Personal care,F,679.876804693769,Minutes per day
+KOR,Korea,UPW,Unpaid work,F,215.008936662608,Minutes per day
+KOR,Korea,PAW,Paid work or study,F,269.386471761285,Minutes per day
+KOR,Korea,OTH,Other,_T,27.7335798643878,Minutes per day
+KOR,Korea,UPW,Unpaid work,_T,131.706428025599,Minutes per day
+KOR,Korea,PAW,Paid work or study,_T,344.452367193367,Minutes per day
+LVA,Latvia,LEI,Leisure,M,290.47875347107,Minutes per day
+LVA,Latvia,PCA,Personal care,M,639.602900542765,Minutes per day
+LVA,Latvia,UPW,Unpaid work,M,129.726897150602,Minutes per day
+LVA,Latvia,PAW,Paid work or study,M,376.93106909732,Minutes per day
+LVA,Latvia,OTH,Other,F,5.33583331988962,Minutes per day
+LVA,Latvia,LEI,Leisure,F,249.248179830482,Minutes per day
+LVA,Latvia,PCA,Personal care,F,643.693565341687,Minutes per day
+LVA,Latvia,UPW,Unpaid work,F,253.2541126242,Minutes per day
+LVA,Latvia,PAW,Paid work or study,F,288.468308883741,Minutes per day
+LVA,Latvia,OTH,Other,_T,3.84950740685502,Minutes per day
+LVA,Latvia,LEI,Leisure,_T,268.841314115382,Minutes per day
+LVA,Latvia,PCA,Personal care,_T,641.296207711742,Minutes per day
+LVA,Latvia,UPW,Unpaid work,_T,196.074543891354,Minutes per day
+LVA,Latvia,PAW,Paid work or study,_T,329.938426874667,Minutes per day
+LTU,Lithuania,OTH,Other,F,8.69442252305132,Minutes per day
+LTU,Lithuania,LEI,Leisure,M,282.19783185362,Minutes per day
+LTU,Lithuania,LEI,Leisure,F,215.298857870942,Minutes per day
+LTU,Lithuania,PCA,Personal care,M,644.323489643715,Minutes per day
+LTU,Lithuania,PCA,Personal care,F,644.797666656861,Minutes per day
+LTU,Lithuania,UPW,Unpaid work,M,151.6108055203,Minutes per day
+LTU,Lithuania,UPW,Unpaid work,F,291.951659066224,Minutes per day
+LTU,Lithuania,PAW,Paid work or study,M,354.262732052054,Minutes per day
+LTU,Lithuania,PAW,Paid work or study,F,279.257393882923,Minutes per day
+LTU,Lithuania,OTH,Other,_T,8.1680722499444,Minutes per day
+LTU,Lithuania,LEI,Leisure,_T,246.606803007443,Minutes per day
+LTU,Lithuania,PCA,Personal care,_T,645.538649513615,Minutes per day
+LTU,Lithuania,UPW,Unpaid work,_T,224.471325068096,Minutes per day
+LTU,Lithuania,PAW,Paid work or study,_T,315.215150160901,Minutes per day
+LUX,Luxembourg,LEI,Leisure,M,299.041394735763,Minutes per day
+LUX,Luxembourg,PCA,Personal care,M,676.86338955921,Minutes per day
+LUX,Luxembourg,UPW,Unpaid work,M,121.075181416472,Minutes per day
+LUX,Luxembourg,PAW,Paid work or study,M,329.995018587546,Minutes per day
+LUX,Luxembourg,OTH,Other,F,14.5123881177844,Minutes per day
+LUX,Luxembourg,LEI,Leisure,F,253.023219613439,Minutes per day
+LUX,Luxembourg,PCA,Personal care,F,694.01245297704,Minutes per day
+LUX,Luxembourg,UPW,Unpaid work,F,239.61742768193,Minutes per day
+LUX,Luxembourg,PAW,Paid work or study,F,238.866389933843,Minutes per day
+LUX,Luxembourg,OTH,Other,_T,14.0634171949444,Minutes per day
+LUX,Luxembourg,LEI,Leisure,_T,276.385699779144,Minutes per day
+LUX,Luxembourg,PCA,Personal care,_T,685.668230952173,Minutes per day
+LUX,Luxembourg,UPW,Unpaid work,_T,179.155603986542,Minutes per day
+LUX,Luxembourg,PAW,Paid work or study,_T,284.688134496738,Minutes per day
+MEX,Mexico,UPW,Unpaid work,F,380.0,Minutes per day
+MEX,Mexico,OTH,Other,F,23.2145603,Minutes per day
+MEX,Mexico,LEI,Leisure,M,186.602155,Minutes per day
+MEX,Mexico,LEI,Leisure,F,159.110852,Minutes per day
+MEX,Mexico,PCA,Personal care,M,624.21898,Minutes per day
+MEX,Mexico,PCA,Personal care,F,641.76293,Minutes per day
+MEX,Mexico,UPW,Unpaid work,M,131.419215,Minutes per day
+MEX,Mexico,PAW,Paid work or study,_T,349.152146,Minutes per day
+MEX,Mexico,PAW,Paid work or study,M,478.332964,Minutes per day
+MEX,Mexico,PAW,Paid work or study,F,236.3285411,Minutes per day
+MEX,Mexico,OTH,Other,_T,21.448615,Minutes per day
+MEX,Mexico,LEI,Leisure,_T,171.927427,Minutes per day
+MEX,Mexico,PCA,Personal care,_T,633.58384,Minutes per day
+MEX,Mexico,UPW,Unpaid work,_T,263.887872,Minutes per day
+NLD,Netherlands,OTH,Other,M,13.8255825399848,Minutes per day
+NLD,Netherlands,LEI,Leisure,M,329.58532083016,Minutes per day
+NLD,Netherlands,PCA,Personal care,M,666.232539984768,Minutes per day
+NLD,Netherlands,UPW,Unpaid work,M,145.417069878142,Minutes per day
+NLD,Netherlands,PAW,Paid work or study,M,284.93920573115,Minutes per day
+NLD,Netherlands,OTH,Other,F,16.739884275353,Minutes per day
+NLD,Netherlands,LEI,Leisure,F,300.223045750429,Minutes per day
+NLD,Netherlands,PCA,Personal care,F,696.658049666797,Minutes per day
+NLD,Netherlands,UPW,Unpaid work,F,224.946109997294,Minutes per day
+NLD,Netherlands,PAW,Paid work or study,F,201.432569452333,Minutes per day
+NLD,Netherlands,OTH,Other,_T,15.2966546858883,Minutes per day
+NLD,Netherlands,PCA,Personal care,_T,681.590620014206,Minutes per day
+NLD,Netherlands,UPW,Unpaid work,_T,185.561382441438,Minutes per day
+NLD,Netherlands,PAW,Paid work or study,_T,242.787032776412,Minutes per day
+NZL,New Zealand,OTH,Other,M,16.0,Minutes per day
+NZL,New Zealand,OTH,Other,F,19.0,Minutes per day
+NZL,New Zealand,LEI,Leisure,_T,301.0,Minutes per day
+NZL,New Zealand,LEI,Leisure,M,306.0,Minutes per day
+NZL,New Zealand,LEI,Leisure,F,295.0,Minutes per day
+NZL,New Zealand,PCA,Personal care,_T,648.0,Minutes per day
+NZL,New Zealand,PCA,Personal care,M,639.0,Minutes per day
+NZL,New Zealand,PCA,Personal care,F,656.0,Minutes per day
+NZL,New Zealand,UPW,Unpaid work,_T,204.0,Minutes per day
+NZL,New Zealand,UPW,Unpaid work,M,141.0,Minutes per day
+NZL,New Zealand,UPW,Unpaid work,F,264.0,Minutes per day
+NZL,New Zealand,PAW,Paid work or study,_T,270.0,Minutes per day
+NZL,New Zealand,PAW,Paid work or study,M,338.0,Minutes per day
+NZL,New Zealand,PAW,Paid work or study,F,205.0,Minutes per day
+NOR,Norway,OTH,Other,M,14.371084872508,Minutes per day
+NOR,Norway,LEI,Leisure,M,367.087541143803,Minutes per day
+NOR,Norway,PCA,Personal care,M,595.856163283617,Minutes per day
+NOR,Norway,UPW,Unpaid work,M,159.932403385848,Minutes per day
+NOR,Norway,PAW,Paid work or study,M,302.752780732919,Minutes per day
+NOR,Norway,OTH,Other,F,9.11116211505578,Minutes per day
+NOR,Norway,LEI,Leisure,F,339.789029859283,Minutes per day
+NOR,Norway,PCA,Personal care,F,631.99754814757,Minutes per day
+NOR,Norway,UPW,Unpaid work,F,212.059552540682,Minutes per day
+NOR,Norway,PAW,Paid work or study,F,247.042684622866,Minutes per day
+NOR,Norway,OTH,Other,_T,11.7128221366738,Minutes per day
+NOR,Norway,PCA,Personal care,_T,613.333785205978,Minutes per day
+NOR,Norway,UPW,Unpaid work,_T,185.581687487247,Minutes per day
+NOR,Norway,PAW,Paid work or study,_T,275.404025061653,Minutes per day
+POL,Poland,LEI,Leisure,M,281.218841552734,Minutes per day
+POL,Poland,PCA,Personal care,M,665.15234375,Minutes per day
+POL,Poland,UPW,Unpaid work,M,189.473693847656,Minutes per day
+POL,Poland,PAW,Paid work or study,M,272.243774414063,Minutes per day
+POL,Poland,OTH,Other,F,36.9486846923828,Minutes per day
+POL,Poland,LEI,Leisure,F,245.658813476563,Minutes per day
+POL,Poland,PCA,Personal care,F,693.037475585938,Minutes per day
+POL,Poland,UPW,Unpaid work,F,292.593627929688,Minutes per day
+POL,Poland,PAW,Paid work or study,F,171.761444091797,Minutes per day
+POL,Poland,OTH,Other,_T,35.0,Minutes per day
+POL,Poland,LEI,Leisure,_T,261.0,Minutes per day
+POL,Poland,PCA,Personal care,_T,682.0,Minutes per day
+POL,Poland,UPW,Unpaid work,_T,248.0,Minutes per day
+POL,Poland,PAW,Paid work or study,_T,214.0,Minutes per day
+PRT,Portugal,OTH,Other,M,5.0314465408805,Minutes per day
+PRT,Portugal,LEI,Leisure,M,289.140461215933,Minutes per day
+PRT,Portugal,PCA,Personal care,M,677.232704402516,Minutes per day
+PRT,Portugal,UPW,Unpaid work,M,96.2683438155136,Minutes per day
+PRT,Portugal,PAW,Paid work or study,M,372.327044025157,Minutes per day
+PRT,Portugal,OTH,Other,F,7.0391061452514,Minutes per day
+PRT,Portugal,LEI,Leisure,F,199.776536312849,Minutes per day
+PRT,Portugal,PCA,Personal care,F,673.743016759777,Minutes per day
+PRT,Portugal,UPW,Unpaid work,F,328.156424581006,Minutes per day
+PRT,Portugal,PAW,Paid work or study,F,231.284916201117,Minutes per day
+PRT,Portugal,OTH,Other,_T,6.04195804195804,Minutes per day
+PRT,Portugal,LEI,Leisure,_T,240.671328671329,Minutes per day
+PRT,Portugal,UPW,Unpaid work,_T,222.545454545455,Minutes per day
+PRT,Portugal,PAW,Paid work or study,_T,295.048951048951,Minutes per day
+SVN,Slovenia,LEI,Leisure,M,336.935933147632,Minutes per day
+SVN,Slovenia,PCA,Personal care,M,631.754874651811,Minutes per day
+SVN,Slovenia,UPW,Unpaid work,M,166.462395543175,Minutes per day
+SVN,Slovenia,PAW,Paid work or study,M,299.83286908078,Minutes per day
+SVN,Slovenia,OTH,Other,F,6.00416956219597,Minutes per day
+SVN,Slovenia,LEI,Leisure,F,283.196664350243,Minutes per day
+SVN,Slovenia,PCA,Personal care,F,630.437804030577,Minutes per day
+SVN,Slovenia,UPW,Unpaid work,F,286.198749131341,Minutes per day
+SVN,Slovenia,PAW,Paid work or study,F,234.162612925643,Minutes per day
+SVN,Slovenia,OTH,Other,_T,5.99167822468793,Minutes per day
+SVN,Slovenia,LEI,Leisure,_T,310.568654646324,Minutes per day
+SVN,Slovenia,PCA,Personal care,_T,628.127600554785,Minutes per day
+SVN,Slovenia,UPW,Unpaid work,_T,230.679611650485,Minutes per day
+SVN,Slovenia,PAW,Paid work or study,_T,264.632454923717,Minutes per day
+ESP,Spain,OTH,Other,M,13.661777,Minutes per day
+ESP,Spain,OTH,Other,F,13.180323,Minutes per day
+ESP,Spain,LEI,Leisure,_T,316.049266,Minutes per day
+ESP,Spain,LEI,Leisure,M,347.169256,Minutes per day
+ESP,Spain,PCA,Personal care,M,696.87999,Minutes per day
+ESP,Spain,UPW,Unpaid work,M,145.9093127,Minutes per day
+ESP,Spain,PAW,Paid work or study,M,236.2291275,Minutes per day
+ESP,Spain,LEI,Leisure,F,283.995586,Minutes per day
+ESP,Spain,PCA,Personal care,F,686.55228,Minutes per day
+ESP,Spain,UPW,Unpaid work,F,289.1279055,Minutes per day
+ESP,Spain,PAW,Paid work or study,F,166.7536196,Minutes per day
+ESP,Spain,PCA,Personal care,_T,691.79239,Minutes per day
+ESP,Spain,UPW,Unpaid work,_T,216.7291055,Minutes per day
+ESP,Spain,PAW,Paid work or study,_T,202.0047329,Minutes per day
+SWE,Sweden,LEI,Leisure,M,338.0,Minutes per day
+SWE,Sweden,PCA,Personal care,M,611.0,Minutes per day
+SWE,Sweden,UPW,Unpaid work,M,171.0,Minutes per day
+SWE,Sweden,PAW,Paid work or study,M,313.0,Minutes per day
+SWE,Sweden,UPW,Unpaid work,_T,196.499173777816,Minutes per day
+SWE,Sweden,OTH,Other,F,5.00347463516331,Minutes per day
+SWE,Sweden,LEI,Leisure,F,306.212647671994,Minutes per day
+SWE,Sweden,PCA,Personal care,F,633.439888811675,Minutes per day
+SWE,Sweden,UPW,Unpaid work,F,220.152883947186,Minutes per day
+SWE,Sweden,PAW,Paid work or study,F,275.191104933982,Minutes per day
+SWE,Sweden,OTH,Other,_T,6.13985651363188,Minutes per day
+SWE,Sweden,LEI,Leisure,_T,321.484572513213,Minutes per day
+SWE,Sweden,PCA,Personal care,_T,622.46952542036,Minutes per day
+SWE,Sweden,PAW,Paid work or study,_T,293.406871774976,Minutes per day
+TUR,Türkiye,PCA,Personal care,_T,681.79669,Minutes per day
+TUR,Türkiye,PAW,Paid work or study,_T,246.3159874,Minutes per day
+TUR,Türkiye,OTH,Other,M,34.11682,Minutes per day
+TUR,Türkiye,LEI,Leisure,M,300.954951,Minutes per day
+TUR,Türkiye,UPW,Unpaid work,M,67.5917389,Minutes per day
+TUR,Türkiye,PAW,Paid work or study,M,358.2501105,Minutes per day
+TUR,Türkiye,OTH,Other,F,46.099935,Minutes per day
+TUR,Türkiye,LEI,Leisure,F,270.447376,Minutes per day
+TUR,Türkiye,PCA,Personal care,F,684.50614,Minutes per day
+TUR,Türkiye,UPW,Unpaid work,F,305.047395,Minutes per day
+TUR,Türkiye,PAW,Paid work or study,F,133.9472367,Minutes per day
+TUR,Türkiye,OTH,Other,_T,40.096759,Minutes per day
+TUR,Türkiye,LEI,Leisure,_T,285.730729,Minutes per day
+TUR,Türkiye,UPW,Unpaid work,_T,186.089492,Minutes per day
+GBR,United Kingdom,OTH,Other,M,29.8696044870127,Minutes per day
+GBR,United Kingdom,LEI,Leisure,M,326.515733433541,Minutes per day
+GBR,United Kingdom,PCA,Personal care,M,634.916891715024,Minutes per day
+GBR,United Kingdom,UPW,Unpaid work,M,140.081795190296,Minutes per day
+GBR,United Kingdom,PAW,Paid work or study,M,308.615975174126,Minutes per day
+GBR,United Kingdom,OTH,Other,F,35.0578374649938,Minutes per day
+GBR,United Kingdom,LEI,Leisure,F,284.67795888641,Minutes per day
+GBR,United Kingdom,PCA,Personal care,F,655.427152072559,Minutes per day
+GBR,United Kingdom,UPW,Unpaid work,F,248.632290190633,Minutes per day
+GBR,United Kingdom,PAW,Paid work or study,F,216.204761385404,Minutes per day
+GBR,United Kingdom,OTH,Other,_T,32.4718942159398,Minutes per day
+GBR,United Kingdom,LEI,Leisure,_T,305.53093651479,Minutes per day
+GBR,United Kingdom,PCA,Personal care,_T,645.20437434277,Minutes per day
+GBR,United Kingdom,PAW,Paid work or study,_T,262.264909867927,Minutes per day
+USA,United States,OTH,Other,M,18.2189540863037,Minutes per day
+USA,United States,LEI,Leisure,M,304.912994384766,Minutes per day
+USA,United States,PCA,Personal care,M,652.301330566406,Minutes per day
+USA,United States,UPW,Unpaid work,M,159.102722167969,Minutes per day
+USA,United States,PAW,Paid work or study,M,305.464019775391,Minutes per day
+USA,United States,OTH,Other,F,23.2864551544189,Minutes per day
+USA,United States,LEI,Leisure,F,255.095794677734,Minutes per day
+USA,United States,PCA,Personal care,F,675.649658203125,Minutes per day
+USA,United States,UPW,Unpaid work,F,234.696731567383,Minutes per day
+USA,United States,PAW,Paid work or study,F,251.271331787109,Minutes per day
+USA,United States,LEI,Leisure,_T,279.856750488281,Minutes per day
+USA,United States,PCA,Personal care,_T,664.044677734375,Minutes per day
+USA,United States,UPW,Unpaid work,_T,197.123748779297,Minutes per day
+USA,United States,PAW,Paid work or study,_T,278.207092285156,Minutes per day
+BGR,Bulgaria,PCA,Personal care,M,732.605420899345,Minutes per day
+BGR,Bulgaria,UPW,Unpaid work,M,125.757672875661,Minutes per day
+BGR,Bulgaria,PAW,Paid work or study,M,305.877348101931,Minutes per day
+BGR,Bulgaria,OTH,Other,F,5.02258751815816,Minutes per day
+BGR,Bulgaria,LEI,Leisure,F,210.477968895029,Minutes per day
+BGR,Bulgaria,PCA,Personal care,F,711.404542538075,Minutes per day
+BGR,Bulgaria,UPW,Unpaid work,F,256.891407558214,Minutes per day
+BGR,Bulgaria,PAW,Paid work or study,F,256.20358286702,Minutes per day
+BGR,Bulgaria,OTH,Other,_T,5.07524738190659,Minutes per day
+BGR,Bulgaria,LEI,Leisure,_T,240.974993237818,Minutes per day
+BGR,Bulgaria,PCA,Personal care,_T,723.052900319744,Minutes per day
+BGR,Bulgaria,UPW,Unpaid work,_T,188.972884305462,Minutes per day
+BGR,Bulgaria,PAW,Paid work or study,_T,281.923912648024,Minutes per day
+BGR,Bulgaria,OTH,Other,M,4.48473063780057,Minutes per day
+CHN,China (People’s Republic of),UPW,Unpaid work,F,234.0,Minutes per day
+CHN,China (People’s Republic of),PAW,Paid work or study,M,390.0,Minutes per day
+CHN,China (People’s Republic of),PAW,Paid work or study,F,291.0,Minutes per day
+CHN,China (People’s Republic of),OTH,Other,_T,14.9895905621096,Minutes per day
+CHN,China (People’s Republic of),LEI,Leisure,_T,227.841776544067,Minutes per day
+CHN,China (People’s Republic of),PCA,Personal care,_T,693.51839000694,Minutes per day
+CHN,China (People’s Republic of),UPW,Unpaid work,_T,163.886190145732,Minutes per day
+CHN,China (People’s Republic of),PAW,Paid work or study,_T,339.764052741152,Minutes per day
+CHN,China (People’s Republic of),OTH,Other,M,15.0,Minutes per day
+CHN,China (People’s Republic of),OTH,Other,F,12.0,Minutes per day
+CHN,China (People’s Republic of),LEI,Leisure,M,248.0,Minutes per day
+CHN,China (People’s Republic of),LEI,Leisure,F,211.0,Minutes per day
+CHN,China (People’s Republic of),PCA,Personal care,M,696.0,Minutes per day
+CHN,China (People’s Republic of),PCA,Personal care,F,692.0,Minutes per day
+HRV,Croatia,PCA,Personal care,M,661.179109311104,Minutes per day
+HRV,Croatia,UPW,Unpaid work,M,148.972486567497,Minutes per day
+HRV,Croatia,PAW,Paid work or study,M,344.435708427429,Minutes per day
+HRV,Croatia,OTH,Other,F,10.7470189332962,Minutes per day
+HRV,Croatia,LEI,Leisure,F,225.084761023521,Minutes per day
+HRV,Croatia,PCA,Personal care,F,648.336516022682,Minutes per day
+HRV,Croatia,UPW,Unpaid work,F,257.727575540543,Minutes per day
+HRV,Croatia,PAW,Paid work or study,F,298.104226112366,Minutes per day
+HRV,Croatia,OTH,Other,_T,10.2766464471817,Minutes per day
+HRV,Croatia,LEI,Leisure,_T,250.568820726872,Minutes per day
+HRV,Croatia,PCA,Personal care,_T,654.783580982685,Minutes per day
+HRV,Croatia,UPW,Unpaid work,_T,202.91339161396,Minutes per day
+HRV,Croatia,PAW,Paid work or study,_T,321.457530925274,Minutes per day
+HRV,Croatia,OTH,Other,M,9.80348113775253,Minutes per day
+IND,India,PCA,Personal care,M,702.771927389694,Minutes per day
+IND,India,UPW,Unpaid work,M,51.767242334305,Minutes per day
+IND,India,PAW,Paid work or study,M,390.571087302003,Minutes per day
+IND,India,OTH,Other,F,12.5521578206643,Minutes per day
+IND,India,LEI,Leisure,F,220.948493663259,Minutes per day
+IND,India,PCA,Personal care,F,669.860366882752,Minutes per day
+IND,India,UPW,Unpaid work,F,351.935306392856,Minutes per day
+IND,India,PAW,Paid work or study,F,184.703675240469,Minutes per day
+IND,India,OTH,Other,_T,12.3884028738259,Minutes per day
+IND,India,LEI,Leisure,_T,253.996122734101,Minutes per day
+IND,India,PCA,Personal care,_T,687.489914767049,Minutes per day
+IND,India,UPW,Unpaid work,_T,191.146144119023,Minutes per day
+IND,India,PAW,Paid work or study,_T,294.979415506001,Minutes per day
+IND,India,OTH,Other,M,12.2464494564219,Minutes per day
+ZAF,South Africa,LEI,Leisure,M,334.19432,Minutes per day
+ZAF,South Africa,PCA,Personal care,M,695.37227,Minutes per day
+ZAF,South Africa,UPW,Unpaid work,M,102.9391411,Minutes per day
+ZAF,South Africa,PAW,Paid work or study,M,294.16317,Minutes per day
+ZAF,South Africa,OTH,Other,F,18.6988008,Minutes per day
+ZAF,South Africa,LEI,Leisure,F,281.849864,Minutes per day
+ZAF,South Africa,PCA,Personal care,F,694.82946,Minutes per day
+ZAF,South Africa,UPW,Unpaid work,F,249.5884149,Minutes per day
+ZAF,South Africa,OTH,Other,_T,16.1621313,Minutes per day
+ZAF,South Africa,LEI,Leisure,_T,305.898196,Minutes per day
+ZAF,South Africa,PCA,Personal care,_T,695.07884,Minutes per day
+ZAF,South Africa,UPW,Unpaid work,_T,182.2847917,Minutes per day
+ZAF,South Africa,PAW,Paid work or study,_T,240.57606,Minutes per day
+ZAF,South Africa,OTH,Other,M,13.1774,Minutes per day
+AUS,Australia,OTH,Other,F,22.0,Minutes per day
+AUT,Austria,OTH,Other,_T,11.85609,Minutes per day
+BEL,Belgium,OTH,Other,F,9.03426738223147,Minutes per day
+CAN,Canada,OTH,Other,_T,30.5236915826797,Minutes per day
+DNK,Denmark,UPW,Unpaid work,_T,216.627341391084,Minutes per day
+EST,Estonia,PAW,Paid work or study,_T,293.061746082749,Minutes per day
+FIN,Finland,OTH,Other,M,42.4529036311851,Minutes per day
+FRA,France,OTH,Other,M,7.84227541389787,Minutes per day
+DEU,Germany,OTH,Other,M,4.32273861989034,Minutes per day
+GRC,Greece,OTH,Other,_T,6.0,Minutes per day
+HUN,Hungary,PAW,Paid work or study,_T,237.614003431622,Minutes per day
+IRL,Ireland,OTH,Other,_T,41.172009,Minutes per day
+ITA,Italy,UPW,Unpaid work,_T,219.038745437563,Minutes per day
+JPN,Japan,OTH,Other,_T,37.0,Minutes per day
+KOR,Korea,LEI,Leisure,_T,258.260203841049,Minutes per day
+LVA,Latvia,OTH,Other,M,3.26037973824294,Minutes per day
+LTU,Lithuania,OTH,Other,M,7.60514093031033,Minutes per day
+LUX,Luxembourg,OTH,Other,M,13.0250157010083,Minutes per day
+MEX,Mexico,OTH,Other,M,19.42664,Minutes per day
+NLD,Netherlands,LEI,Leisure,_T,314.763994846005,Minutes per day
+NZL,New Zealand,OTH,Other,_T,17.0,Minutes per day
+NOR,Norway,LEI,Leisure,_T,353.967756063685,Minutes per day
+POL,Poland,OTH,Other,M,31.9113578796387,Minutes per day
+PRT,Portugal,PCA,Personal care,_T,675.692307692308,Minutes per day
+SVN,Slovenia,OTH,Other,M,5.01392757660167,Minutes per day
+ESP,Spain,OTH,Other,_T,13.424608,Minutes per day
+SWE,Sweden,OTH,Other,M,7.0,Minutes per day
+TUR,Türkiye,PCA,Personal care,M,679.09766,Minutes per day
+GBR,United Kingdom,UPW,Unpaid work,_T,194.527885058573,Minutes per day
+USA,United States,OTH,Other,_T,20.7677211761475,Minutes per day
+BGR,Bulgaria,LEI,Leisure,M,271.274916466791,Minutes per day
+CHN,China (People’s Republic of),UPW,Unpaid work,M,91.0,Minutes per day
+HRV,Croatia,LEI,Leisure,M,275.609206831455,Minutes per day
+IND,India,LEI,Leisure,M,282.643293517576,Minutes per day
+ZAF,South Africa,PAW,Paid work or study,F,195.03345,Minutes per day
