@@ -8,26 +8,65 @@
 
 各章のディレクトリ（`chapters/chNN/`）に、その章のレシピのコードと分析結果が入っています。
 
-- **[第1章 気象](chapters/ch01/README.md)**（Recipe 01-04）
-  [桜の開花日は早まっているか](chapters/ch01/README.md#recipe-01-桜の開花日は早まっているか) / [台風の上陸数は増えているか](chapters/ch01/README.md#recipe-02-台風の上陸数は増えているか) / [東京の夏は暑くなっているか](chapters/ch01/README.md#recipe-03-東京の夏は暑くなっているか) / [ゲリラ豪雨は増えているか](chapters/ch01/README.md#recipe-04-ゲリラ豪雨は増えているか)
-- **[第2章 年収・賃金](chapters/ch02/README.md)**（Recipe 05-07）
-  [平均年収は30年上がっていないか](chapters/ch02/README.md#recipe-05-平均年収は30年上がっていないか) / [日本の労働時間は世界何位か](chapters/ch02/README.md#recipe-06-日本の労働時間は世界何位か) / [IT業界の平均年収は本当に高いか](chapters/ch02/README.md#recipe-07-it業界の平均年収は本当に高いか)
-- **[第3章 物価・購買力](chapters/ch03/README.md)**（Recipe 08-10）
-  [ビッグマック指数で購買力を比較する](chapters/ch03/README.md#recipe-08-ビッグマック指数で購買力を比較する) / [都道府県別の物価差はどのくらいか](chapters/ch03/README.md#recipe-09-都道府県別の物価差はどのくらいか) / [円安で日本の輸出は増えたか](chapters/ch03/README.md#recipe-10-円安で日本の輸出は増えたか)
-- **[第4章 人口・少子化](chapters/ch04/README.md)**（Recipe 11-14）
-  [人口ピラミッドの変化を可視化する](chapters/ch04/README.md#recipe-11-人口ピラミッドの変化を可視化する) / [少子化と婚姻率、どっちが原因か](chapters/ch04/README.md#recipe-12-少子化と婚姻率どっちが原因か) / [出生率と何が相関するか](chapters/ch04/README.md#recipe-13-出生率と何が相関するか) / [消滅可能性都市を自分で特定する](chapters/ch04/README.md#recipe-14-消滅可能性都市を自分で特定する)
-- **[第5章 健康・生活](chapters/ch05/README.md)**（Recipe 15-18）
-  [日本人の睡眠時間は本当に短いか](chapters/ch05/README.md#recipe-15-日本人の睡眠時間は本当に短いか) / [平均寿命と何が相関するか](chapters/ch05/README.md#recipe-16-平均寿命と何が相関するか) / [コンビニの数と人口の関係](chapters/ch05/README.md#recipe-17-コンビニの数と人口の関係) / [通勤時間と睡眠時間の関係](chapters/ch05/README.md#recipe-18-通勤時間と睡眠時間の関係)
-- **[第6章 犯罪・安全](chapters/ch06/README.md)**（Recipe 19-20）
-  [日本の犯罪は本当に減っているか](chapters/ch06/README.md#recipe-19-日本の犯罪は本当に減っているか) / [特殊詐欺の被害額は増えているか](chapters/ch06/README.md#recipe-20-特殊詐欺の被害額は増えているか)
-- **[第7章 株価・金融](chapters/ch07/README.md)**（Recipe 21-22）
-  [ビットコインと日経平均は連動しているか](chapters/ch07/README.md#recipe-21-ビットコインと日経平均は連動しているか) / [日経平均は米大統領選の年に上がるか](chapters/ch07/README.md#recipe-22-日経平均は米大統領選の年に上がるか)
-- **[第8章 教育・キャリア](chapters/ch08/README.md)**（Recipe 23-24）
-  [大学を出ると生涯年収はどれだけ変わるか](chapters/ch08/README.md#recipe-23-大学を出ると生涯年収はどれだけ変わるか) / [プログラミング言語の人気はどう移り変わったか](chapters/ch08/README.md#recipe-24-プログラミング言語の人気はどう移り変わったか)
-- **[第9章 国際比較](chapters/ch09/README.md)**（Recipe 25-27）
-  [年収と幸福度は比例するか](chapters/ch09/README.md#recipe-25-年収と幸福度は比例するか) / [経済規模が大きい国は幸せか](chapters/ch09/README.md#recipe-26-経済規模が大きい国は幸せか) / [都道府県幸福度ランキングを自分で作る](chapters/ch09/README.md#recipe-27-都道府県幸福度ランキングを自分で作る)
-- **[第10章 SNS・エンタメ](chapters/ch10/README.md)**（Recipe 28-30）
-  [再生回数が多いのは長い動画か、短い動画か](chapters/ch10/README.md#recipe-28-再生回数が多いのは長い動画か短い動画か) / [プロ野球の打率は「3割で一流」か](chapters/ch10/README.md#recipe-29-プロ野球の打率は3割で一流か) / [外国人労働者はどの都道府県に多いか](chapters/ch10/README.md#recipe-30-外国人労働者はどの都道府県に多いか)
+### [第1章 気象](chapters/ch01/README.md)
+
+- Recipe 01 [桜の開花日は早まっているか](chapters/ch01/README.md#recipe-01-桜の開花日は早まっているか)
+- Recipe 02 [台風の上陸数は増えているか](chapters/ch01/README.md#recipe-02-台風の上陸数は増えているか)
+- Recipe 03 [東京の夏は暑くなっているか](chapters/ch01/README.md#recipe-03-東京の夏は暑くなっているか)
+- Recipe 04 [ゲリラ豪雨は増えているか](chapters/ch01/README.md#recipe-04-ゲリラ豪雨は増えているか)
+
+### [第2章 年収・賃金](chapters/ch02/README.md)
+
+- Recipe 05 [平均年収は30年上がっていないか](chapters/ch02/README.md#recipe-05-平均年収は30年上がっていないか)
+- Recipe 06 [日本の労働時間は世界何位か](chapters/ch02/README.md#recipe-06-日本の労働時間は世界何位か)
+- Recipe 07 [IT業界の平均年収は本当に高いか](chapters/ch02/README.md#recipe-07-it業界の平均年収は本当に高いか)
+
+### [第3章 物価・購買力](chapters/ch03/README.md)
+
+- Recipe 08 [ビッグマック指数で購買力を比較する](chapters/ch03/README.md#recipe-08-ビッグマック指数で購買力を比較する)
+- Recipe 09 [都道府県別の物価差はどのくらいか](chapters/ch03/README.md#recipe-09-都道府県別の物価差はどのくらいか)
+- Recipe 10 [円安で日本の輸出は増えたか](chapters/ch03/README.md#recipe-10-円安で日本の輸出は増えたか)
+
+### [第4章 人口・少子化](chapters/ch04/README.md)
+
+- Recipe 11 [人口ピラミッドの変化を可視化する](chapters/ch04/README.md#recipe-11-人口ピラミッドの変化を可視化する)
+- Recipe 12 [少子化と婚姻率、どっちが原因か](chapters/ch04/README.md#recipe-12-少子化と婚姻率どっちが原因か)
+- Recipe 13 [出生率と何が相関するか](chapters/ch04/README.md#recipe-13-出生率と何が相関するか)
+- Recipe 14 [消滅可能性都市を自分で特定する](chapters/ch04/README.md#recipe-14-消滅可能性都市を自分で特定する)
+
+### [第5章 健康・生活](chapters/ch05/README.md)
+
+- Recipe 15 [日本人の睡眠時間は本当に短いか](chapters/ch05/README.md#recipe-15-日本人の睡眠時間は本当に短いか)
+- Recipe 16 [平均寿命と何が相関するか](chapters/ch05/README.md#recipe-16-平均寿命と何が相関するか)
+- Recipe 17 [コンビニの数と人口の関係](chapters/ch05/README.md#recipe-17-コンビニの数と人口の関係)
+- Recipe 18 [通勤時間と睡眠時間の関係](chapters/ch05/README.md#recipe-18-通勤時間と睡眠時間の関係)
+
+### [第6章 犯罪・安全](chapters/ch06/README.md)
+
+- Recipe 19 [日本の犯罪は本当に減っているか](chapters/ch06/README.md#recipe-19-日本の犯罪は本当に減っているか)
+- Recipe 20 [特殊詐欺の被害額は増えているか](chapters/ch06/README.md#recipe-20-特殊詐欺の被害額は増えているか)
+
+### [第7章 株価・金融](chapters/ch07/README.md)
+
+- Recipe 21 [ビットコインと日経平均は連動しているか](chapters/ch07/README.md#recipe-21-ビットコインと日経平均は連動しているか)
+- Recipe 22 [日経平均は米大統領選の年に上がるか](chapters/ch07/README.md#recipe-22-日経平均は米大統領選の年に上がるか)
+
+### [第8章 教育・キャリア](chapters/ch08/README.md)
+
+- Recipe 23 [大学を出ると生涯年収はどれだけ変わるか](chapters/ch08/README.md#recipe-23-大学を出ると生涯年収はどれだけ変わるか)
+- Recipe 24 [プログラミング言語の人気はどう移り変わったか](chapters/ch08/README.md#recipe-24-プログラミング言語の人気はどう移り変わったか)
+
+### [第9章 国際比較](chapters/ch09/README.md)
+
+- Recipe 25 [年収と幸福度は比例するか](chapters/ch09/README.md#recipe-25-年収と幸福度は比例するか)
+- Recipe 26 [経済規模が大きい国は幸せか](chapters/ch09/README.md#recipe-26-経済規模が大きい国は幸せか)
+- Recipe 27 [都道府県幸福度ランキングを自分で作る](chapters/ch09/README.md#recipe-27-都道府県幸福度ランキングを自分で作る)
+
+### [第10章 SNS・エンタメ](chapters/ch10/README.md)
+
+- Recipe 28 [再生回数が多いのは長い動画か、短い動画か](chapters/ch10/README.md#recipe-28-再生回数が多いのは長い動画か短い動画か)
+- Recipe 29 [プロ野球の打率は「3割で一流」か](chapters/ch10/README.md#recipe-29-プロ野球の打率は3割で一流か)
+- Recipe 30 [外国人労働者はどの都道府県に多いか](chapters/ch10/README.md#recipe-30-外国人労働者はどの都道府県に多いか)
 
 各章ディレクトリには次が含まれます。
 
